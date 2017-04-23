@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - slim-api@localhost" uuid="be914186-97e1-4c7b-80cb-febbc395660f">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>slim-api.*</schema-pattern>
+      <default-schemas>slim-api.*</default-schemas>
+    </data-source>
+  </component>
+</project>
